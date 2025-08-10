@@ -87,9 +87,3 @@ print("Accuracy:", accuracy_score(y_test, y_pred))
 print("Classification Report:\n", classification_report(y_test, y_pred))
 
 -----------------------------------------------------------
-
-Feel free to customize this template based on the specifics of your project.
-
-
-Include any additional information that might be relevant, such as future improvements, known issues, or additional resources.
-Providing a clear and informative README enhances the accessibility and usability of your project.
